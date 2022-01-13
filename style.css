@@ -1,0 +1,43 @@
+body{
+    text-align:left;
+}
+h2{
+    color:yellow;
+    margin-left:70px;
+}
+#healthy{
+    color:chartreuse;
+    margin-left:50px;
+}
+#healthy_f{
+    height:410px;
+    margin-left:50px;
+}
+#para{
+    font-weight:bold;
+    color:chartreuse;
+    margin-left:50px;
+}
+#unhealthy{
+    color:red;
+    margin-left:70px;
+}
+#upara{
+    color:red;
+    font-weight:bold;
+    margin-left:50px;
+}
+#me{
+    height:200px;
+    margin-left:30px;
+}
+#if{
+    width:1000px;
+    margin-left:10px;
+}
+#unhealthy_f{
+    margin-left:50px;
+}
+#name{
+    margin-left:30px;
+}
